@@ -15,8 +15,8 @@ I am an undergraduate majoring in computer engineering with a minor in mathemati
 Publications
 ======
 
-- [Under Review] Expanding Specification Capabilities of a Gradual Verifier
-with Pure Functions, Doruk Alp Mutlu, POPL 2026 Student Research Competition, [PDF](files/popl26src.pdf)
+- Expanding Specification Capabilities of a Gradual Verifier
+with Pure Functions, Doruk Alp Mutlu, POPL 2026 Student Research Competition, [arXiv](https://arxiv.org/abs/2511.22075)
 
 Teaching
 ======
