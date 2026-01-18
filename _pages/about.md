@@ -10,7 +10,7 @@ redirect_from:
 Summary
 ======
 
-I am an undergraduate majoring in computer engineering with a minor in mathematics at Michigan State University (MSU). Broadly, I am interested in computer architecture, parallel programming systems and formal methods. During my undergrad, I was fortunate to be advised by Dr. Jenna DiVincenzco from Purdue University, and work on extending the specification capabilities of Gradual C0, the only working gradual verifier, with pure functions. Also, I was involved in teaching various undergraduate computer science courses at MSU as a teaching assistant.
+I am an undergraduate majoring in computer engineering with a minor in mathematics at Michigan State University (MSU). Broadly, I am interested in computer systems, parallel programming systems and formal methods. During my undergrad, I was fortunate to be advised by Dr. Jenna DiVincenzco from Purdue University, and work on extending the specification capabilities of Gradual C0, the only working gradual verifier, with pure functions. Also, I was involved in teaching various undergraduate computer science courses at MSU as a teaching assistant.
 
 Publications
 ======
